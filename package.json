@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "gitty":"git add . && git commit -m",
-    "postgitty":"git push"
+    "postgitty":"git push origin master"
 
   },
   "keywords": [],
